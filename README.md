@@ -4,7 +4,9 @@
 
 Share your media in a easiest and fastest way with this app throw WIFI-Direct connection.
 
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" height="auto" onclick="window.open(https://play.google.com/store/apps/details?id=com.rizzo.mediame)">
+<a href="https://play.google.com/store/apps/details?id=com.rizzo.mediame" id="bottle" onclick="document.location=this.id+'.html';return false;" >
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="bottle" class="thumbnails" width="200" height="auto" />
+</a>
 
 [Read full documentation (Italian)](https://t3rmit4nk.github.io/mediame.github.io/MediaMeDoc.pdf)
 
