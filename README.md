@@ -1,6 +1,6 @@
 # Mediame
 
-<img src="https://t3rmit4nk.github.io/mediame.github.io/images/icon.png" width="200" height="200" />
+<img src="https://simone-rizzo.github.io/mediame.github.io/images/icon.png" width="200" height="200" />
 
 Share your media in a easiest and fastest way with this app throw WIFI-Direct connection.
 
