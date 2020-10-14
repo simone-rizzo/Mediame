@@ -8,7 +8,7 @@ Share your media in a easiest and fastest way with this app throw WIFI-Direct co
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="bottle" class="thumbnails" width="200" height="auto" />
 </a>
 
-[Read full documentation (Italian)](https://simone-rizzo.github.io/mediame.github.io/MediaMeDoc.pdf)
+[Read full documentation (Italian)](https://simone-rizzo.github.io/Mediame/MediaMeDoc.pdf)
 
 ## How it works
 Share photos in 3 simple steps, without having to send them to the network ❗
