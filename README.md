@@ -1,6 +1,6 @@
 # Mediame
 
-<img src="https://simone-rizzo.github.io/mediame.github.io/images/icon.png" width="200" height="200" />
+<img src="https://simone-rizzo.github.io/Mediame/images/icon.png" width="200" height="200" />
 
 Share your media in a easiest and fastest way with this app throw WIFI-Direct connection.
 
@@ -23,20 +23,20 @@ And you're done, simple, fast, light ✔
 
 
  <div class="column">
-<img src="https://simone-rizzo.github.io/mediame.github.io/images/copertina1.png" width="450" height="auto">
-<img src="https://simone-rizzo.github.io/mediame.github.io/images/copertina2.png" width="450" height="auto">
+<img src="https://simone-rizzo.github.io/Mediame/images/copertina1.png" width="450" height="auto">
+<img src="https://simone-rizzo.github.io/Mediame/images/copertina2.png" width="450" height="auto">
   </div>
 
 ## Some Screenshot
 
  <div class="column">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp1.png" width="300" height="auto">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp2.png" width="300" height="auto">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp3.png" width="300" height="auto">    
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp1.png" width="300" height="auto">
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp2.png" width="300" height="auto">
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp3.png" width="300" height="auto">    
   </div>
   
    <div class="column">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp4.png" width="300" height="auto">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp5.png" width="300" height="auto">
-    <img src="https://simone-rizzo.github.io/mediame.github.io/images/esp6.png" width="300" height="auto">    
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp4.png" width="300" height="auto">
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp5.png" width="300" height="auto">
+    <img src="https://simone-rizzo.github.io/Mediame/images/esp6.png" width="300" height="auto">    
   </div>
