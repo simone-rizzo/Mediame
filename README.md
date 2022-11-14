@@ -2,7 +2,7 @@
 
 <img src="https://simone-rizzo.github.io/Mediame/images/icon.png" width="200" height="200" />
 
-Share your media in a easiest and fastest way with this app throw WIFI-Direct connection.
+Share your media in a easiest and fastest way with this app through WIFI-Direct connection.
 
 <a href="https://play.google.com/store/apps/details?id=com.rizzo.mediame" id="bottle" onclick="document.location=this.id+'.html';return false;" >
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="bottle" class="thumbnails" width="200" height="auto" />
